@@ -5,7 +5,7 @@ This project is a full stack web application using the MERN Stack which allows u
 
 ## Link to the App
 * ['Book Search - Github'](https://github.com/KevinNg2/Book-Search)
-*['Book Search Deployed on Heroku'](https://mighty-basin-10821.herokuapp.com/)
+* ['Book Search Deployed on Heroku'](https://mighty-basin-10821.herokuapp.com/)
 
 <img src="client/public/images/book-search%20screenshot.png" width="50%" height="50%">
 
